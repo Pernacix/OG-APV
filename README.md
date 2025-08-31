@@ -64,7 +64,7 @@
 9. Als je gecrasht bent in een scenario mag je niet meer verder rijden.
 10. Hij/zij die zich niet aan lid 9 houdt wordt bestraft volgens de 2e categorie.
 11. Het is niet toegestaan om tijdens achtervolging een voertuig uit je garage te halen, indien je uit het zicht bent is dit wel toegestaan.
-12. Hij/zij die zich niet aan lid 9 houdt wordt bestraft volgens de 1e categorie.
+12. Hij/zij die zich niet aan lid 11 houdt wordt bestraft volgens de 1e categorie.
 13. Enkele voorbeelden van lid 1 en lid 3 zijn:   
     Proberen "loopholes" te vinden in de regels en/of de regels te misbruiken voor je eigen voordeel:
 
