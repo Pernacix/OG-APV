@@ -62,9 +62,9 @@
 7. Het is niet toegestaan om met een lekke band te blijven rijden.
 8. Hij/zij die zich niet houdt aan lid 7 zal bestarft worden volgens de 1e categorie
 9. Als je gecrasht bent in een scenario mag je niet meer verder rijden.
-10. Hij/zij die zich niet houdt aan lid 9 en 11 houdt wordt bestraft volgens de 2e categorie.
+10. Hij/zij die zich niet aan lid 9 houdt wordt bestraft volgens de 2e categorie.
 11. Het is niet toegestaan om tijdens achtervolging een voertuig uit je garage te halen, indien je uit het zicht bent is dit wel toegestaan.
-12. De overtreding vermeld in lid 11 zal bestraft worden volgens de 1e categorie.
+12. Hij/zij die zich niet aan lid 9 houdt wordt bestraft volgens de 1e categorie.
 13. Enkele voorbeelden van lid 1 en lid 3 zijn:   
     Proberen "loopholes" te vinden in de regels en/of de regels te misbruiken voor je eigen voordeel:
 
@@ -231,7 +231,7 @@
 
 # Artikel 20 - Combatstashen
 
-1. Het is verboden om binnen de 10 minuten nadat je voor het laatst een criminele activiteit deed (drugs, schieten met wapen, ...) iets op te bergen in je appartement/kofferbak.
+1. Het is verboden om binnen de 10 minuten nadat je voor het laatst een criminele activiteit deed (drugs, schieten met wapen, ...) iets op te bergen in je appartement/kofferbak. Indien je een wapen uit de kofferbak haalt, moet deze dus ook 10 minuten buiten de kofferbak blijven.
 2. Het is verboden om tijdens je overheidsdienst inbeslaggenomen wapens/drugs/auto's binnen de 10 minuten na dat je het wapen hebt geconfisqueerd te vernietigen.
 3. Het feit genoemd in lid 1 en lid 2 wordt gezien als "Combatstashen".
 4. Dit zal gestraft worden met een straf van de 2e categorie.
@@ -447,9 +447,7 @@
 
 1. Het is niet toegestaan om op plekken te landen waar dit als onrealistisch gezien wordt.
 2. Het is niet toegestaan om op daken te laden waarvan het gebouw zichtbaar niet sterk genoeg daarvoor is.
-3. Het is niet toegestaan om op plekken te landen waar dit als onrealistisch gezien wordt.
-4. Het is niet toegestaan om op daken te laden waarvan het gebouw zichtbaar niet sterk genoeg daarvoor is.
-5. Bij overtreding van het feit beschreven in lid 1,2,3 of 4 wordt een straf van de 1e categorie uitgedeeld.
+3. Bij overtreding van het feit beschreven in lid 1 of 2 wordt een straf van de 1e categorie uitgedeeld.
 
 De volgende gebieden worden gezien als nofly zones:
 
