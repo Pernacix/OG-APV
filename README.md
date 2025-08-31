@@ -254,6 +254,8 @@
 5. De overtreding vermeldt in het eerste en derde lid staat bekend als “RDM”.
 6. Indien de andere partij meewerkt tijdens dat persoon wordt overvallen, mag de desbetreffende persoon niet van zijn leven worden beroofd.
 7. Hij/zij die zich niet aan lid 5 houdt wordt bestraft volgens de 3e catagorie.
+8. Het is niet toegestaan om een "Hitman" te zijn of als zodanig op te treden.
+9. Hij/zij die zich niet aan lid 9 houdt wordt bestraft volgens de 3e categorie.
 
 
 # Artikel 23 - Belediging
